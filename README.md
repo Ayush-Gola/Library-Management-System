@@ -88,27 +88,16 @@ project/
 ## 📸 Sample Console Output
 ![image](https://github.com/user-attachments/assets/d7d25b32-8faf-4cd4-bf20-ba1e7a53c0af)
 
+## ▶️ How to Run
 
-## 🚀 How to Run
-
-### 🧑‍💻 Prerequisites
-- JDK 8 or higher installed
-- Java compiler accessible in terminal (`javac`, `java`)
-
-### 🏃‍♂️ Steps to Execute
-
-```bash
-# 1️⃣ Navigate to project directory
-cd path/to/project
-
-# 2️⃣ Compile all Java files
-javac Driver/Driver.java
-
-# 3️⃣ Run the program
-java Driver.Driver
-
-
----
+1. 💻 Clone this repository:
+   ```bash
+   git clone https://github.com/your-username/phonebook-console-java.git
+   cd phonebook-console-java
+2. 🧾 Compile the files:
+    javac project/*.java
+3. 🚀 Run the app:
+    java project.driver
 
 ## 📜 License
 
@@ -117,9 +106,10 @@ java Driver.Driver
 ---
 
 ## 🙋‍♂️ Author
-Ayush Gola
-📧 ayushgola851@gmail.com
-👨‍💻 Passionate about building clean Java apps with real-world utility. 
+
+**Ayush Gola**  
+📧 [ayushgola851@gmail.com](mailto:ayushgola851@gmail.com)  
+👨‍💻 Passionate about building clean Java apps with real-world utility.
 
 ---
 
