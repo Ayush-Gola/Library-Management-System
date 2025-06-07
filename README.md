@@ -15,7 +15,7 @@ It provides separate modules for **Users** and **Librarians**, allowing book iss
 
 ---
 
----
+
 
 ## 🛠️ Tech Stack
 
@@ -42,22 +42,8 @@ It provides separate modules for **Users** and **Librarians**, allowing book iss
 
 ## 🗂️ Project Structure
 
-project/
-│
-├── Driver/
-│ └── Driver.java # App Entry Point
-│
-├── Entity/
-│ ├── Book.java # Book POJO
-│ ├── Librarian.java # Librarian POJO
-│ └── User.java # User POJO
-│
-├── Repository/
-│ └── Database.java # In-memory Database
-│
-└── Service/
-├── LibraryService.java # Librarian Services
-└── UserService.java # User Services
+![image](https://github.com/user-attachments/assets/338a237e-e58d-42f4-b162-1c1ccc803b77)
+
 
 
 
@@ -88,6 +74,8 @@ project/
 ## 📸 Sample Console Output
 ![image](https://github.com/user-attachments/assets/d7d25b32-8faf-4cd4-bf20-ba1e7a53c0af)
 
+---
+
 ## ▶️ How to Run
 
 1. 💻 Clone this repository:
@@ -98,6 +86,9 @@ project/
     javac project/*.java
 3. 🚀 Run the app:
     java project.driver
+
+---
+
 
 ## 📜 License
 
